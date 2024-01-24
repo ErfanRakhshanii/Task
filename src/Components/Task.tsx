@@ -41,7 +41,7 @@ export default function Task() {
     >
       <AppBar position="fixed" style={{ zIndex: 10000 }}>
         <Toolbar>
-          <Button color="inherit">Login</Button>
+          <Button color="inherit">Task</Button>
           <Typography
             variant="h6"
             component="div"
